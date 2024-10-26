@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://asahaaki.github.io/sitemap_index.asahaaki
